@@ -1,5 +1,5 @@
 ## Sobre mim
-Olá! Sou um desenvolvedor web fullstack apaixonado por criar soluções inovadoras e funcionais. Tenho uma sólida experiência em desenvolvimento de software desde 2016, com foco em projetos web fullstack utilizando JavaScript e ReactJS.
+Olá! Sou um desenvolvedor web fullstack, tenho uma sólida experiência em desenvolvimento de software desde 2016, com foco em projetos web fullstack utilizando Node e ReactJS.
 
 ### Habilidades técnicas
 - JavaScript/TypeScript

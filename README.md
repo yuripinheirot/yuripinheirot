@@ -3,7 +3,7 @@ Olá! Sou um desenvolvedor web fullstack, tenho uma sólida experiência em dese
 
 ### Habilidades técnicas
 - JavaScript/TypeScript
-- React
+- React/React Native
 - Node.js
 - Git
 - SQL/NoSQL
@@ -12,7 +12,6 @@ Olá! Sou um desenvolvedor web fullstack, tenho uma sólida experiência em dese
 - Docker
 - Testes unitários/funcionais
 - Conhecimentos básicos de infraestrutura
-- Desenvolvimento mobile
 
 Também dedico parte do meu tempo livre ao estudo de desenvolvimento mobile com React Native, ampliando assim meu conjunto de habilidades e possibilitando a criação de soluções multiplataforma.
 

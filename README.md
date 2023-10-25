@@ -19,9 +19,6 @@ Em todos os meus projetos, aplico os princípios da Clean Architecture, Clean Co
 ### Interesses pessoais
 Fora do mundo do desenvolvimento, tenho um grande amor pela música, especialmente metal e blues. Além disso, sou fã de tereré, uma tradicional bebida refrescante do Paraguai, que me ajuda a relaxar e manter o foco.
 
-### Atualmente
-Atualmente, estou focado em projetos desafiadores e contribuindo para o sucesso da minha equipe.
-
 ### Contato
 Sinta-se à vontade para entrar em contato comigo para mais informações ou oportunidades de colaboração.
 yuripinheirot@gmail.com

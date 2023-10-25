@@ -13,8 +13,6 @@ Olá! Sou um desenvolvedor web fullstack, tenho uma sólida experiência em dese
 - Testes unitários/funcionais
 - Conhecimentos básicos de infraestrutura
 
-Também dedico parte do meu tempo livre ao estudo de desenvolvimento mobile com React Native, ampliando assim meu conjunto de habilidades e possibilitando a criação de soluções multiplataforma.
-
 ### Filosofia de desenvolvimento
 Em todos os meus projetos, aplico os princípios da Clean Architecture, Clean Code, design patterns, TDD e os princípios SOLID. Busco manter um código limpo, organizado e reutilizável, seguindo as melhores práticas da indústria. Acredito que um código bem estruturado não apenas facilita a manutenção e evolução do software, mas também contribui para a qualidade da experiência do usuário. Adoto uma abordagem orientada a testes e priorizo a criação de testes unitários e funcionais para garantir a qualidade e robustez do software. Minha dedicação a esses princípios garante a entrega de soluções de alta qualidade e escaláveis.
 

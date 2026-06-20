@@ -1,6 +1,7 @@
 ### I bridge the gap between complex business needs and high-performance software through best practices. Here is a snapshot of my years of engineering experience:
 
-*💡 **Note on my GitHub:** The majority of my most complex and recent repositories are private due to company confidentiality, and many of the public ones reflect older projects or early studies.*
+> [!WARNING]
+> **Note on my GitHub:** The majority of my most complex and recent repositories are private due to company confidentiality, and many of the public ones reflect older projects or early studies.
 
 ---
 
@@ -41,5 +42,7 @@
 * 🔹 Fitness enthusiast (Daily workouts and healthy lifestyle);
 * 🔹 Home chef (Cooking good food to fuel the gains);
 * 🔹 Tereré fan (Fueling focus and energy throughout the day);
+
+---
 
 **See you around 🤘**

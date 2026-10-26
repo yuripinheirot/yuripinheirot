@@ -1,3 +1,4 @@
-**A note about my GitHub:** Most of my recent and more advanced work is in private repositories. My public repositories primarily showcase earlier projects and learning experiences.
+> [!WARNING]
+> **Note on my GitHub:** The majority of my most complex and recent repositories are private projects, and many of the public ones reflect older projects or early studies.
 
-[LinkedIn Profile](https://www.linkedin.com/in/yuripinheirot/)
+[Linkedin Profile](https://www.linkedin.com/in/yuripinheirot/)
